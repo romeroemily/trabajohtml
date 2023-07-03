@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Mis comidas favoritas</title>
+
+    </head>
+
+    <body>
+        <h1>Pizza</h1>
+        <h2>Arepa rellena</h2>
+        <h3>Choriperro</h3>
+        <h4>Hamburguesa</h4>
+        <h5>Perro caliente</h5>
+        <br>
+        <a href="https://es.wikipedia.org/wiki/Comida_r%C3%A1pida">Comidas rapidas</a>
+        <img src="https://www.google.com/search?rlz=1C1UUXU_esCO1005CO1005&sxsrf=AB5stBhbKiAODh3eN-ez6UF8uHascjMGtg:1688345546937&q=comidas+rapidas&tbm=isch&sa=X&ved=2ahUKEwjJ_tSkqfH_AhVWmYQIHacmDK8Q0pQJegQIDRAB&biw=1366&bih=657&dpr=1#imgrc=xapcVfBF0gu6sM">
+
+        
+        
+    </body>
+
+
